@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "SpendSmart",
+    "slug": "spendsmart",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#0A0A0F"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.yourname.spendsmart"
+    },
+    "android": {
+      "package": "com.yourname.spendsmart",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#0A0A0F"
+      }
+    }
+  }
+}
